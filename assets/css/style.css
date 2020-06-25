@@ -1,0 +1,42 @@
+body {
+    font-family: 'Cabin', regular;
+}
+
+h2, h5 {
+    font-weight: 700;
+}
+
+h5 {
+    border-bottom: solid 2px #000;
+    display: inline;
+    padding-bottom: 3px;
+   
+}
+
+.recetas {
+    text-align: center;
+}
+.navbar-brand, .ricomida, footer{
+    font-family: 'Lobster', cursive;
+}
+
+.container {
+    padding-left: 4.375rem;
+    padding-right: 4.375rem;
+}
+
+.carousel-indicators {
+    top: 175px;
+    background-color: aqua;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373a3c !important;
+}
+
+hr {
+    width: 80%;
+}
